@@ -4,8 +4,8 @@ Trabalho Sistemas Operacionais | Game de bubble sort.bat
 Documentação do meu app:
 
 
-
-Como jogar:
+  - Como jogar:
+  
 
 Digite "help" para ver a versão e dicas de como jogar.
 
